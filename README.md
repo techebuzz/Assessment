@@ -46,7 +46,7 @@ portfolio/
 
  ## 🌐 Live Website
 
-[Click here to view my portfolio]   https://techebuzz.github.io/Project/
+[Click here to view my portfolio]   https://techebuzz.github.io/Assessment/
 
 ## Contact
 - Email: kanjagerald717@gmail.com
